@@ -1,8 +1,4 @@
-# About this template
+# chaos-pendulum
 
-This is a template for a sketch using the p5.js library in conjunction with Microsoft Typescript.
-
-## References
-
-[p5.js library](https://p5js.org/)
-[Typescript](https://www.typescriptlang.org/)
+A recreation of the tripple magnet pendulum simlation seen in [The relationship between chaos, fractal and physics
+](https://www.youtube.com/watch?v=C5Jkgvw-Z6E&ab_channel=HiroShimoyama).
